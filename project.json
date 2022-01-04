@@ -3,10 +3,7 @@
   "description": "This process starts a K2 workflow using the API integration",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.K2.Activities": "[0.1.6893.30844]",
-    "UiPath.Mail.Activities": "[1.12.3]",
     "UiPath.System.Activities": "[21.10.3]",
-    "UiPath.UIAutomation.Activities": "[21.10.4]",
     "UiPath.WebAPI.Activities": "[1.9.3-preview]"
   },
   "webServices": [],
